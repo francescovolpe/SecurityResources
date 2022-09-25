@@ -22,4 +22,5 @@ Nikto | Vulnerability scanner
 [OWASP ZAP](https://www.zaproxy.org/) | - 
 [Hydra](https://github.com/vanhauser-thc/thc-hydra) | Brute force online password cracking program
 [Web Vulnerabilities Methodology](https://book.hacktricks.xyz/pentesting-web/web-vulnerabilities-methodology) | Checklist to confirm that you have searched vulnerabilities in all the possible places
+[CMSeeK](https://github.com/Tuhinshubhra/CMSeeK) | CMS Detection and Exploitation suite
 
