@@ -20,6 +20,6 @@ John The Ripper | Hash cracking tools
 Searchsploit | Exploit-DB tool
 [CVE - MITRE](https://cve.mitre.org/) | CVE
 [Stegseek](https://github.com/RickdeJager/stegseek) | Steghide cracker
-IOC Editor (Mandiant | FireEye) | Create IOCs
+IOC Editor (Mandiant - FireEye) | Create IOCs
 [Kerbrute](https://github.com/ropnop/kerbrute) | Enumerating Users via Kerberos (AD)
 [Reverse Shell Generator](https://www.revshells.com/) | Reverse Shell Generator
