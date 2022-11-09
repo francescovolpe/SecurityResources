@@ -4,7 +4,7 @@
 - Autopsy
 
 ### Memory analysis / Forensic investigation
-- Redline
+- Redline (can be used to extract a memory)
 
 ### Zero dependency viewer
 - EZViewer (Eriz Zimmerman's tools), Windows
