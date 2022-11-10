@@ -5,6 +5,7 @@
 
 ### Memory analysis / Forensic investigation
 - Redline (can be used to extract a memory)
+- Volatility
 
 ### Zero dependency viewer
 - EZViewer (Eriz Zimmerman's tools), Windows
