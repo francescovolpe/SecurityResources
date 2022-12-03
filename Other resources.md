@@ -9,3 +9,5 @@ Resource | Description
 [iana - Port Number ](https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml) | Service Name and Transport Protocol Port Number Registry
 [Chmod Calculator](https://chmodcommand.com/) | An awesome Chmod Calculator to convert Linux file permissions between different formats
 [CyberChef](https://gchq.github.io/CyberChef/) | The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+[Hash format](https://hashcat.net/wiki/doku.php?id=example_hashes) | Example hashes
+
